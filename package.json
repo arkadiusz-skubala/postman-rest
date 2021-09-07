@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp-postman-rest-api",
+  "version": "1.0.0",
+  "description": "Atos Bootcamp - Postman and REST API - simple mock database using JSON Server",
+  "author": "Arkadiusz Skubala <arkadiusz.skubala@atos.net>",
+  "license": "MIT",
+  "scripts": {
+    "local-api": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {}
+}
